@@ -4,7 +4,7 @@
 > using RFM analysis to drive targeted marketing decisions.
 
 ## 🔗 Links
-- 📓 [Google Colab Notebook](your-colab-link-here)
+- 📓 [Google Colab Notebook](notebook/RFM_Customer_Segmentation_Analysis_|_Online_Retail_Dataset.ipynb)
 - 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/kristina.vasylenko/viz/RFM_17767786912690/Dashboard1)
 
 ---
